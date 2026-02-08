@@ -1,1 +1,7 @@
 python-dotenv
+playwright
+python-dotenv
+python-telegram-bot
+requests
+sqlalchemy
+schedule
